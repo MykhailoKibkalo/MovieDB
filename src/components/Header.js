@@ -12,7 +12,7 @@ export const Header = () => {
 
           <ul className="nav-links">
             <li>
-              <a href="https://github.com/MykhailoKibkalo/MovieDB" target="_blank">About me</a>
+              <a href="https://github.com/MykhailoKibkalo/MovieDB" target="_blank" rel="noreferrer">About me</a>
             </li>
             <li>
               <Link to="/">Watch List</Link>
