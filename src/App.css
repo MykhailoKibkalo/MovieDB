@@ -106,6 +106,7 @@ header .nav-links {
   list-style: none;
   display: flex;
   align-items: center;
+  justify-content: flex-end;
 }
 
 header .nav-links li {
